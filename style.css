@@ -157,7 +157,12 @@ nav > li[class="active"] {
 }
 
 #servicos-3 {
+	padding-bottom: 45px;
 	text-align: center!important;
+}
+
+#servicos-3 a {
+	margin-top: 15px;
 }
 
 /* ============ pagina do blog ============*/
